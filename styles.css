@@ -22,3 +22,9 @@
 	Text-align: right;
 	Font-style:italic;
 }
+
+.h2{
+	Padding:2px;
+	Border:2px solid blue;
+	Background-color: #f5f5f5;
+}
