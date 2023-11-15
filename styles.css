@@ -20,7 +20,7 @@
       margin: 0;
     }
 
-    .author {
+    p.author {
       text-align: right;
       font-style: italic;
     }
